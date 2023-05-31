@@ -1,18 +1,12 @@
 import React from "react";
 
-const PersonForm = ({ addPerson, newName, handleNameChange, newNumber, handleNumberChange }) => {
+const PersonForm = () => {
     return (
-        <form onSubmit={addPerson}>
         <div>
-            name: <input value={newName} onChange={handleNameChange} />
+            {persons.map((person, i) => (
+                <p>person.name</p>
+            ))}
         </div>
-        <div>
-            number: <input value={newNumber} onChange={handleNumberChange} />
-        </div>
-        <div>
-            <button type="submit">add</button>
-        </div>
-        </form>
     );
 };
 
