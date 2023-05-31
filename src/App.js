@@ -16,9 +16,9 @@ export default function App() {
       <div>
         <h1>Technologie Front-End- Kolokwium</h1>
         <p>Karolina Pomian</p>
-        <PersonForm />
+        {/* <PersonForm /> */}
         <PersonList />
-        <Stats />
+        {/* <Stats /> */}
       </div>
     </PersonContext.Provider>
   );
