@@ -1,6 +1,6 @@
-import React from "react";
+import React, {useReducer, useMemo} from "react";
 
-const PersonForm = () => {
+const PersonList = () => {
     return (
         <div>
             {persons.map((person, i) => (
@@ -10,4 +10,4 @@ const PersonForm = () => {
     );
 };
 
-export default PersonForm;
+export default PersonList;
