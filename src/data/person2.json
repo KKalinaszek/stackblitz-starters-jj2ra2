@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Krzysztof",
+        "age": 24,
+        "city": "Warszawa",
+        "email": "krzysztof@example.com"
+    },
+    {
+        "id": 2,
+        "name": "Anna",
+        "age": 30,
+        "city": "Gdańsk",
+        "email": "anna@example.com"
+    },
+    {
+        "id": 3,
+        "name": "Piotr",
+        "age": 32,
+        "city": "Kraków",
+        "email": "piotr@example.com"
+    },
+    {
+        "id": 4,
+        "name": "Paulina",
+        "age": 28,
+        "city": "Poznań",
+        "email": "paulina@example.com"
+    },
+    {
+        "id": 5,
+        "name": "Michał",
+        "age": 22,
+        "city": "Wrocław",
+        "email": "michal@example.com"
+    },
+    {
+        "id": 6,
+        "name": "Katarzyna",
+        "age": 27,
+        "city": "Łódź",
+        "email": "katarzyna@example.com"
+    },
+    {
+        "id": 7,
+        "name": "Tomasz",
+        "age": 25,
+        "city": "Katowice",
+        "email": "tomasz@example.com"
+    },
+    {
+        "id": 8,
+        "name": "Monika",
+        "age": 26,
+        "city": "Szczecin",
+        "email": "monika@example.com"
+    },
+    {
+        "id": 9,
+        "name": "Marcin",
+        "age": 31,
+        "city": "Białystok",
+        "email": "marcin@example.com"
+    },
+    {
+        "id": 10,
+        "name": "Karolina",
+        "age": 29,
+        "city": "Toruń",
+        "email": "karolina@example.com"
+    }
+]
